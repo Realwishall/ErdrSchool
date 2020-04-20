@@ -13,8 +13,9 @@
 
     <string-array name="planets_array">
         <item>Select Class</item>
-        <item>TARGET NEET</item>
-        <item>IIT JEE</item>
+        <item>CrashCourse NEET</item>
+        <item>CrashCourse JEE(Mains)</item>
+        <item>CrashCourse JEE(Adv)</item>
         <item>Class 12</item>
         <item>Class 11</item>
         <item>Class 10</item>
@@ -25,7 +26,8 @@
     <string-array name="change_class">
         <item>Change Class</item>
         <item>CrashCourse NEET</item>
-        <item>CrashCourse JEE()</item>
+        <item>CrashCourse JEE(Mains)</item>
+        <item>CrashCourse JEE(Adv)</item>
         <item>Class 12</item>
         <item>Class 11</item>
         <item>Class 10</item>
