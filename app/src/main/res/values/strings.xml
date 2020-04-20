@@ -1,0 +1,45 @@
+<resources>
+    <string name="spinner_title">select_branch</string>
+    <string name="spinner_title_class">Select Class</string>
+    <string name="spinner_change_class">Change Class</string>
+
+    <string name="app_name">ERDR video library</string>
+    <string name="schoolNamelectureFileAddress">AllVideoData</string>
+    <string name="coaching_name">ER-DR</string>
+    <string name="created_by_er_dr">Created by ER-DR</string>
+    <string name="storeSchoolName">ERDR</string>
+    <string name="maxNumberToChangeClass">20</string>
+
+
+    <string-array name="planets_array">
+        <item>Select Class</item>
+        <item>TARGET NEET</item>
+        <item>IIT JEE</item>
+        <item>Class 12</item>
+        <item>Class 11</item>
+        <item>Class 10</item>
+        <item>Class 9</item>
+        <item>Class 8</item>
+    </string-array>
+
+    <string-array name="change_class">
+        <item>Change Class</item>
+        <item>CrashCourse NEET</item>
+        <item>CrashCourse JEE()</item>
+        <item>Class 12</item>
+        <item>Class 11</item>
+        <item>Class 10</item>
+        <item>Class 9</item>
+        <item>Class 8</item>
+    </string-array>
+
+
+    <string-array name="batch_name">
+        <item>Select Batch</item>
+        <item>Indira Nagar</item>
+        <item>Hazratganj</item>
+        <item>Aliganj</item>
+    </string-array>
+</resources>
+
+
